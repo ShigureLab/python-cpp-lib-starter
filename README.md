@@ -1,13 +1,13 @@
-# C++ with poetry
+# C++ with poetry<sup>template</sup>
 
 ## Python Side
 
-首先确保安装 poetry
+首先确保[安装 poetry](https://python-poetry.org/docs/#installation)
 
-### Installation
+### Install build tools
 
 ```bash
-poetry install # 首先确保 Cython 安装，如果是 Windows 需要自行安装 VS Build Tools
+poetry install # 首先确保 Cython 安装，如果是 Windows 需要额外自行安装 VS Build Tools
 ```
 
 ### Build and run
