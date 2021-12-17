@@ -33,7 +33,7 @@ poetry run demo
 make # 编译构建 C++ 部分
 ```
 
-### run
+### Run
 
 ```bash
 make run # 运行 C++ 部分测试代码
