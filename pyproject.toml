@@ -9,7 +9,7 @@ build = "build.py"
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
-pytest = "^8.0.0"
+pytest = "^9.0.0"
 black = "^21.11b1"
 Cython = "^3.0.0"
 
